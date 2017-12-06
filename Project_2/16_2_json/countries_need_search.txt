@@ -1,0 +1,117 @@
+ERROR - American Samoa
+
+ERROR - Antigua and Barbuda
+
+ERROR - Aruba
+
+ERROR - Bahamas, The
+
+ERROR - Barbados
+
+ERROR - Bermuda
+
+ERROR - Bolivia
+
+ERROR - Cayman Islands
+
+ERROR - Channel Islands
+
+ERROR - Comoros
+
+ERROR - Congo, Dem. Rep.
+
+ERROR - Congo, Rep.
+
+ERROR - Curacao
+
+ERROR - Dominica
+
+ERROR - Egypt, Arab Rep.
+
+ERROR - Faeroe Islands
+
+ERROR - Fiji
+
+ERROR - French Polynesia
+
+ERROR - Gambia, The
+
+ERROR - Gibraltar
+
+ERROR - Grenada
+
+ERROR - Hong Kong SAR, China
+
+ERROR - Iran, Islamic Rep.
+
+ERROR - Isle of Man
+
+ERROR - Kiribati
+
+ERROR - Korea, Dem. Rep.
+
+ERROR - Korea, Rep.
+
+ERROR - Kosovo
+
+ERROR - Kyrgyz Republic
+
+ERROR - Lao PDR
+
+ERROR - Libya
+
+ERROR - Macao SAR, China
+
+ERROR - Macedonia, FYR
+
+ERROR - Marshall Islands
+
+ERROR - Micronesia, Fed. Sts.
+
+ERROR - Moldova
+
+ERROR - New Caledonia
+
+ERROR - Northern Mariana Islands
+
+ERROR - Palau
+
+ERROR - Qatar
+
+ERROR - Samoa
+
+ERROR - Sint Maarten (Dutch part)
+
+ERROR - Slovak Republic
+
+ERROR - Solomon Islands
+
+ERROR - St. Kitts and Nevis
+
+ERROR - St. Lucia
+
+ERROR - St. Martin (French part)
+
+ERROR - St. Vincent and the Grenadines
+
+ERROR - Tanzania
+
+ERROR - Tonga
+
+ERROR - Trinidad and Tobago
+
+ERROR - Turks and Caicos Islands
+
+ERROR - Tuvalu
+
+ERROR - Vanuatu
+
+ERROR - Venezuela, RB
+
+ERROR - Vietnam
+
+ERROR - Virgin Islands (U.S.)
+
+ERROR - West Bank and Gaza
+
+ERROR - Yemen, Rep.

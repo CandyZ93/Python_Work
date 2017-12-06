@@ -1,0 +1,246 @@
+ERROR - Arab World
+ERROR - Caribbean small states
+ERROR - East Asia & Pacific (all income levels)
+ERROR - East Asia & Pacific (developing only)
+ERROR - Euro area
+ERROR - Europe & Central Asia (all income levels)
+ERROR - Europe & Central Asia (developing only)
+ERROR - European Union
+ERROR - Heavily indebted poor countries (HIPC)
+ERROR - High income
+ERROR - High income: nonOECD
+ERROR - High income: OECD
+ERROR - Latin America & Caribbean (all income levels)
+ERROR - Latin America & Caribbean (developing only)
+ERROR - Least developed countries: UN classification
+ERROR - Low & middle income
+ERROR - Low income
+ERROR - Lower middle income
+ERROR - Middle East & North Africa (all income levels)
+ERROR - Middle East & North Africa (developing only)
+ERROR - Middle income
+ERROR - North America
+ERROR - OECD members
+ERROR - Other small states
+ERROR - Pacific island small states
+ERROR - Small states
+ERROR - South Asia
+ERROR - Sub-Saharan Africa (all income levels)
+ERROR - Sub-Saharan Africa (developing only)
+ERROR - Upper middle income
+ERROR - World
+af: 34385000
+al: 3205000
+dz: 35468000
+ERROR - American Samoa
+ad: 84864
+ao: 19082000
+ERROR - Antigua and Barbuda
+ar: 40412000
+am: 3092000
+ERROR - Aruba
+au: 22299000
+at: 8390000
+az: 9054000
+ERROR - Bahamas, The
+bh: 1262000
+bd: 148692000
+ERROR - Barbados
+by: 9490000
+be: 10896000
+bz: 345000
+bj: 8850000
+ERROR - Bermuda
+bt: 726000
+ERROR - Bolivia
+ba: 3760000
+bw: 2007000
+br: 194946000
+bn: 399000
+bg: 7534000
+bf: 16468000
+bi: 8382000
+kh: 14139000
+cm: 19599000
+ca: 34126000
+cv: 496000
+ERROR - Cayman Islands
+cf: 4401000
+td: 11227000
+ERROR - Channel Islands
+cl: 17113688
+cn: 1338300000
+co: 46295000
+ERROR - Comoros
+ERROR - Congo, Dem. Rep.
+ERROR - Congo, Rep.
+cr: 4659000
+ci: 19738000
+hr: 4418000
+cu: 11258000
+ERROR - Curacao
+cy: 1103000
+cz: 10520000
+dk: 5547000
+dj: 889000
+ERROR - Dominica
+do: 9927000
+ec: 14465000
+ERROR - Egypt, Arab Rep.
+sv: 6193000
+gq: 700000
+er: 5254000
+ee: 1340000
+et: 82950000
+ERROR - Faeroe Islands
+ERROR - Fiji
+fi: 5364000
+fr: 64895000
+ERROR - French Polynesia
+ga: 1505000
+ERROR - Gambia, The
+ge: 4452000
+de: 81777000
+gh: 24392000
+ERROR - Gibraltar
+gr: 11316000
+gl: 56534
+ERROR - Grenada
+gu: 179000
+gt: 14389000
+gn: 9982000
+gw: 1515000
+gy: 755000
+ht: 9993000
+hn: 7600000
+ERROR - Hong Kong SAR, China
+hu: 10000000
+is: 318000
+in: 1224615000
+id: 239870000
+ERROR - Iran, Islamic Rep.
+iq: 32031000
+ie: 4475000
+ERROR - Isle of Man
+il: 7624000
+it: 60483000
+jm: 2702000
+jp: 127451000
+jo: 6047000
+kz: 16323000
+ke: 40513000
+ERROR - Kiribati
+ERROR - Korea, Dem. Rep.
+ERROR - Korea, Rep.
+ERROR - Kosovo
+kw: 2736000
+ERROR - Kyrgyz Republic
+ERROR - Lao PDR
+lv: 2239000
+lb: 4227000
+ls: 2171000
+lr: 3994000
+ERROR - Libya
+li: 36032
+lt: 3287000
+lu: 507000
+ERROR - Macao SAR, China
+ERROR - Macedonia, FYR
+mg: 20714000
+mw: 14901000
+my: 28401000
+mv: 316000
+ml: 15370000
+mt: 416000
+ERROR - Marshall Islands
+mr: 3460000
+mu: 1281000
+yt: 204000
+mx: 113423000
+ERROR - Micronesia, Fed. Sts.
+ERROR - Moldova
+mc: 35407
+mn: 2756000
+me: 632000
+ma: 31951000
+mz: 23390000
+mm: 47963000
+na: 2283000
+np: 29959000
+nl: 16616000
+ERROR - New Caledonia
+nz: 4368000
+ni: 5789000
+ne: 15512000
+ng: 158423000
+ERROR - Northern Mariana Islands
+no: 4889000
+om: 2783000
+pk: 173593000
+ERROR - Palau
+pa: 3517000
+pg: 6858000
+py: 6454000
+pe: 29076000
+ph: 93261000
+pl: 38184000
+pt: 10638000
+pr: 3978000
+ERROR - Qatar
+ro: 21438000
+ru: 141750000
+rw: 10624000
+ERROR - Samoa
+sm: 31534
+st: 165000
+sa: 27448000
+sn: 12434000
+rs: 7291000
+sc: 87000
+sl: 5867000
+sg: 5077000
+ERROR - Sint Maarten (Dutch part)
+ERROR - Slovak Republic
+si: 2049000
+ERROR - Solomon Islands
+so: 9331000
+za: 49991000
+es: 46071000
+lk: 20860000
+ERROR - St. Kitts and Nevis
+ERROR - St. Lucia
+ERROR - St. Martin (French part)
+ERROR - St. Vincent and the Grenadines
+sd: 43552000
+sr: 525000
+sz: 1056000
+se: 9378000
+ch: 7826000
+sy: 20447000
+tj: 6879000
+ERROR - Tanzania
+th: 69122000
+tl: 1124000
+tg: 6028000
+ERROR - Tonga
+ERROR - Trinidad and Tobago
+tn: 10549000
+tr: 72752000
+tm: 5042000
+ERROR - Turks and Caicos Islands
+ERROR - Tuvalu
+ug: 33424000
+ua: 45871000
+ae: 7512000
+gb: 62232000
+us: 309349000
+uy: 3357000
+uz: 28228000
+ERROR - Vanuatu
+ERROR - Venezuela, RB
+ERROR - Vietnam
+ERROR - Virgin Islands (U.S.)
+ERROR - West Bank and Gaza
+ERROR - Yemen, Rep.
+zm: 12927000
+zw: 12571000
